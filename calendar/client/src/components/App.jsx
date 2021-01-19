@@ -586,8 +586,8 @@ class App extends Component {
           />
           <ClearDate hide={hide} clearState={this.clearState} />
         </div>
-        <Guest />
-        <PriceInformation status={status} />
+        {/* <Guest /> */}
+        {/* <PriceInformation status={status} /> */}
         <div id="button-reserve">Reserve</div>
         {/* <ExtraInfo status={status} /> */}
       </div>

@@ -1,0 +1,24 @@
+{
+  "name": "draftbnb-proxy",
+  "version": "1.0.0",
+  "description": "proxy server for app draftbnb",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7",
+    "start": "nodemon server/app.js",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/app.js"
+  },
+  "author": "Casey Nguyen",
+  "license": "ISC"
+}
