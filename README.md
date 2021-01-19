@@ -24,4 +24,4 @@ Clone this repo. Make sure you are in the <em>calendar</em> directory and downlo
 4. Just wanted to build an application that was aesthetically pleasing.
 
 
-![Screen Shot 2021-01-18 at 9 56 44 PM](https://user-images.githubusercontent.com/15646850/104995638-77598f00-59db-11eb-9208-405057ef3e3e.png | width=100)
+![Screen Shot 2021-01-18 at 9 56 44 PM](https://user-images.githubusercontent.com/15646850/104995638-77598f00-59db-11eb-9208-405057ef3e3e.png)
